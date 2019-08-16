@@ -26,7 +26,6 @@ The *test-role-1* directory will contain the following:
 
 .. code-block:: bash
 
-    .travis.yml
     README.md
     defaults/
         main.yml
